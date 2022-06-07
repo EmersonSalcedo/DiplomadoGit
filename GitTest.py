@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-option =  ("Alexander Arrieta Molinares ")
-=======
 option = (input ("Ingrese su nombre: "))
->>>>>>> 0ae743c41105f3502b605b4e1f3390f486f5533c
 
 if option == "Miguel Jimenez":
     #Insert code here
-<<<<<<< HEAD
-    print("El cambio en primera")
-=======
     print("option 1")
 
 if option == "Alfredo Anguila":
@@ -19,8 +12,6 @@ if option == "Alfredo Anguila":
 if option == "Angel Barros":
     #Insert code here
     print("")
-
-option = (input ("Ingrese su nombre"))
 
 if option == "Deivid Guauña":
     #Insert code here
@@ -53,6 +44,3 @@ if option == "Alejandro Cardenas":
 
 if option == "Aimer Rodriguez":
     print("!Hola "+option)
-
-
->>>>>>> 0ae743c41105f3502b605b4e1f3390f486f5533c
